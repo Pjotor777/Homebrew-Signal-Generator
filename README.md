@@ -1,4 +1,4 @@
-# Fixed Frequency Signal Generator
+# Homebrew Signal Generator
 
 Update 2026-05-23: project in progress, currently revising readme, and working on the final version 1 PCB.
 I also plan on beginning version 2, using more sophisticated components and improving performance over v1.
