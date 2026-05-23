@@ -1,4 +1,8 @@
 # Fixed Frequency Signal Generator
+
+Update 2026-05-23: project in progress, currently revising readme, and working on the final version 1 PCB.
+I also plan on beginning version 2, using more sophisticated components and improving performance over v1.
+
 ## Abstract
 A basic analog signal generator circuit that generates the 4 fundamental waveforms (Square, Sine, Triangular and Sawtooth). The generator was built using only passive components (resistors, capacitors and diodes) and operational amplifiers. The generator has a fixed frequency (phase locked), oscillating at 1 kHz.
 
